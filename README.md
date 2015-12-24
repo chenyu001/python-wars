@@ -1,2 +1,3 @@
-# python-wars
-Python脑力大作战！
+#Python 脑力大作战
+
+**Welcome to Python Wars**
