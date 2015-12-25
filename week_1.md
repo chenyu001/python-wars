@@ -20,4 +20,4 @@ Python最适合做什么，那肯定是爬虫啦，爬虫是什么，当然不�
 requests，Python下最为人性化的Http请求库
 
 2. Sample：
-[融车包交易总量查询](https://github.com/yannxia/reptile/blob/master/madai/car_loan_request.py)
+[融车宝交易总量查询](https://github.com/yannxia/reptile/blob/master/madai/car_loan_request.py)
